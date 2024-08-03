@@ -16,6 +16,7 @@ Viewing angles for 3D plot
 ![image](https://github.com/user-attachments/assets/dde8b7a4-5d60-47b0-a466-f41fb3ca0f74)
 ![image](https://github.com/user-attachments/assets/76e48582-cb79-4316-88d9-0549e1b7deb1)
 ![image](https://github.com/user-attachments/assets/ff69cab7-5f8a-487d-9ecd-29da9dab07af)
+![image](https://github.com/user-attachments/assets/e8b68ca8-33db-4db0-be05-c8c94176d9e0)
 
 Technical Details
 
