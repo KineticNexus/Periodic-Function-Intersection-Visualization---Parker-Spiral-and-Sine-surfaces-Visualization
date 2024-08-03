@@ -1,0 +1,2 @@
+# Periodic-Function-Intersection-Visualization---Parker-Spiral-and-Sine-surfaces-Visualization
+Periodic Function Intersection Visualization This application provides an interactive visualization of Parker spirals surfaces and Sine surfaces and the intersection between two periodic functions in 3D space. It's designed to explore patterns that emerge from these intersections, with a particular focus on potential connections to prime numbers.
